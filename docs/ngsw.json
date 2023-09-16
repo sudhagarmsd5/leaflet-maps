@@ -1,0 +1,115 @@
+{
+  "configVersion": 1,
+  "timestamp": 1694874920138,
+  "index": "/leaflet-maps/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/leaflet-maps/433.389ae1beee677564.js",
+        "/leaflet-maps/favicon.ico",
+        "/leaflet-maps/index.html",
+        "/leaflet-maps/main.4e86070f1f1c9195.js",
+        "/leaflet-maps/manifest.webmanifest",
+        "/leaflet-maps/polyfills.e852dbd313f8b5ce.js",
+        "/leaflet-maps/runtime.54cf89cd02146bb3.js",
+        "/leaflet-maps/styles.340b94eeab2f6628.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/leaflet-maps/assets/icons/icon-128x128.png",
+        "/leaflet-maps/assets/icons/icon-144x144.png",
+        "/leaflet-maps/assets/icons/icon-152x152.png",
+        "/leaflet-maps/assets/icons/icon-192x192.png",
+        "/leaflet-maps/assets/icons/icon-384x384.png",
+        "/leaflet-maps/assets/icons/icon-512x512.png",
+        "/leaflet-maps/assets/icons/icon-72x72.png",
+        "/leaflet-maps/assets/icons/icon-96x96.png",
+        "/leaflet-maps/assets/layers-2x.png",
+        "/leaflet-maps/assets/layers.png",
+        "/leaflet-maps/assets/marker-icon-2x.png",
+        "/leaflet-maps/assets/marker-icon.png",
+        "/leaflet-maps/assets/marker-shadow.png",
+        "/leaflet-maps/assets/spritesheet-2x.png",
+        "/leaflet-maps/assets/spritesheet.png",
+        "/leaflet-maps/assets/spritesheet.svg",
+        "/leaflet-maps/layers-2x.9859cd1231006a4a.png",
+        "/leaflet-maps/layers.ef6db8722c2c3f9a.png",
+        "/leaflet-maps/leaflet.routing.icons.338a66223c3ac2d6.png",
+        "/leaflet-maps/marker-icon.d577052aa271e13f.png",
+        "/leaflet-maps/routing-icon.c747cfa97eca0f1d.png",
+        "/leaflet-maps/spritesheet-2x.53a2cab414ddbc39.png",
+        "/leaflet-maps/spritesheet.ac8b36fa516341a4.svg",
+        "/leaflet-maps/spritesheet.c1d7d1462695ea36.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/leaflet-maps/433.389ae1beee677564.js": "8fdc92f14b1f86a250f1d474c4f77f559f27220e",
+    "/leaflet-maps/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/leaflet-maps/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/leaflet-maps/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/leaflet-maps/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/leaflet-maps/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/leaflet-maps/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/leaflet-maps/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/leaflet-maps/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/leaflet-maps/assets/layers-2x.png": "152a162333e46d24f9d89f566312fc0c64011dee",
+    "/leaflet-maps/assets/layers.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+    "/leaflet-maps/assets/marker-icon-2x.png": "95a44b9ca71fe03fdf65ddd8eea12f1910f38de2",
+    "/leaflet-maps/assets/marker-icon.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+    "/leaflet-maps/assets/marker-shadow.png": "7b6a8df63930381e96604e705168d0527d6b82bc",
+    "/leaflet-maps/assets/spritesheet-2x.png": "4625eac5b01eb0e5227467558ee02053d06efe37",
+    "/leaflet-maps/assets/spritesheet.png": "d9e8c56f483ef0f1e94f47a725c13fd029daeeae",
+    "/leaflet-maps/assets/spritesheet.svg": "47e6aa6d64f8e6f6e7a7067cb0d41652135c9222",
+    "/leaflet-maps/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/leaflet-maps/index.html": "113a542d8ddf43e8b21d59ee6cb4f245d6a59455",
+    "/leaflet-maps/layers-2x.9859cd1231006a4a.png": "152a162333e46d24f9d89f566312fc0c64011dee",
+    "/leaflet-maps/layers.ef6db8722c2c3f9a.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+    "/leaflet-maps/leaflet.routing.icons.338a66223c3ac2d6.png": "9d9f6d3e2c282e2f04d007e066b0d52d33266d49",
+    "/leaflet-maps/main.4e86070f1f1c9195.js": "283990149b6250ece242b694a2458c77b25711c8",
+    "/leaflet-maps/manifest.webmanifest": "d363a6392de46b8266718e13f9553e98c0cc176f",
+    "/leaflet-maps/marker-icon.d577052aa271e13f.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+    "/leaflet-maps/polyfills.e852dbd313f8b5ce.js": "8c26da6f368ef7c0a84c819755b188a3e43b54c5",
+    "/leaflet-maps/routing-icon.c747cfa97eca0f1d.png": "41574344a935671b3a210c7aedd69eaed3b7d282",
+    "/leaflet-maps/runtime.54cf89cd02146bb3.js": "265729366041ae74876d5149beb0b43f646147b4",
+    "/leaflet-maps/spritesheet-2x.53a2cab414ddbc39.png": "4625eac5b01eb0e5227467558ee02053d06efe37",
+    "/leaflet-maps/spritesheet.ac8b36fa516341a4.svg": "47e6aa6d64f8e6f6e7a7067cb0d41652135c9222",
+    "/leaflet-maps/spritesheet.c1d7d1462695ea36.png": "d9e8c56f483ef0f1e94f47a725c13fd029daeeae",
+    "/leaflet-maps/styles.340b94eeab2f6628.css": "5f26246aa52567646984cd0a291483d87c16a4d4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
