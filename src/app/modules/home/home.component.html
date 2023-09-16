@@ -1,0 +1,38 @@
+<div class="base-container">
+  <div class="secondary-header-toolbar">
+    <mat-toolbar id="mat-toolbar" class="w-full">
+      <div class="secondary-header-burger-menu component--mat-sidenav__burger-icon absolute">
+        <button mat-icon-button (click)="sidenav.toggle()">
+          <mat-icon class="custom-menu">menu</mat-icon>
+        </button>
+      </div>
+      <div class="text-center" style="width: inherit">
+        Leaflet Maps
+      </div>
+    </mat-toolbar>
+    <mat-sidenav-container style="height: calc(100vh - 64px); overflow-y: auto;">
+      <mat-sidenav
+        class="component--mat-sidenav__list-contents"
+        opened="true"
+        disableClose="true"
+        mode="side"
+        #sidenav
+      >
+        <mat-nav-list *ngFor="let i of menu">
+          <a
+            routerLink="{{ i.link }}"
+            mat-list-item
+            (click)="getName(i.label); sideOnclickClose()"
+            routerLinkActive="active"
+            >{{ i.label }}</a
+          >
+        </mat-nav-list>
+      </mat-sidenav>
+      <mat-sidenav-content>
+        <div class="p-1">
+          <router-outlet></router-outlet>
+        </div>
+      </mat-sidenav-content>
+    </mat-sidenav-container>
+  </div>
+</div>
